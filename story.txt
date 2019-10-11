@@ -3,3 +3,7 @@
 Rebecca sees the coat oscillating back and forth about the point where the 
 jacet is mounted (the hook). It sparked an idea... Continuous, oscillatory
 motion. Can that be useful in some way? She consults Alex about her idea.
+
+Alex and Rebecca brainstorm for a few hours, until they come to the conclusion that this motion could be used to generate power.
+Therafter they spent long and continuous hours trying to come up with ideas when finally they figured it out. A electric generator. And so after many sleepless nights they were able to build a prototype, however they could not find any funding in order to go through with their project, and that was the end of the probable engine.
+
